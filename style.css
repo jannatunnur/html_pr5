@@ -1,3 +1,9 @@
+
+.loging{
+	display:flex;
+	justify-content:center;
+}
+
 .login-form{
 	display:flex;
 	flex-direction:column;
