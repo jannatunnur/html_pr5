@@ -6,6 +6,7 @@
 	background-color:gray;
 	height:500px;
 	width:500px;
+
 }
 
 .login-form{
@@ -22,13 +23,21 @@
 .login{
 	background-color:blue;
 	border:5px;
+	cursor:pointer;
 
 
 	
 }
 #email{
 	margin-bottom:20px;
+	cursor:pointer;
 }
 #pass{
 	margin-bottom:20px;
+	cursor:pointer;
+}
+.nav a{
+	text-decoration:none;
+	color:black;
+	margin-left:10px;
 }
