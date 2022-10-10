@@ -40,3 +40,10 @@
 	text-decoration:none;
 	color:gold;
 }
+.design{
+	display:flex;
+	justify-content:end;
+}
+.fa-user{
+	margin-right:5px;
+}
