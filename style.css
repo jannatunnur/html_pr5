@@ -51,3 +51,13 @@
 	display:grid;
 	grid-template-columns:200px 200px;
 }
+.prntdiv{
+	display:grid;
+	grid-template-columns:reapet 7;
+	row-gap:20px;
+	columns-gap:20px;
+}
+.edit{
+	height:200px;
+	width:200px;
+}
